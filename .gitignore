@@ -1,6 +1,6 @@
 /venv
 .venv
 */__pycache__
- backend/migrations/__pycache__/
- dj_app/__pycache__/
+backend/migrations/__pycache__/
+dj_app/__pycache__/
  
